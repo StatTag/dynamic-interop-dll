@@ -12,7 +12,7 @@ namespace DynamicInterop
     /// Helper class with functions whose behavior may be depending on the platform 
     /// </summary>
     public static class PlatformUtility
-    {       
+    {
         /// <summary>
         /// Is the platform unix-like (Unix or MacOX)
         /// </summary>
